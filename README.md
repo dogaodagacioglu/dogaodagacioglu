@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I am a monkey, but not lazy**
 
-<h3 align="left">Connect with me: e-mail or phone number</h3>
+<h3 align="left">Connect with me: by e-mail</h3>
 <p align="left">
 </p>
 

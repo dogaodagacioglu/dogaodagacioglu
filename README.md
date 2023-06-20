@@ -2,13 +2,13 @@
 ![bannerimg](https://github.com/dogaodagacioglu/image/blob/main/monkey%204.jpg)
 
 <h1 align="center">Hi 👋, I'm doğa ödağacıoğlu</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
+<h3 align="center">A software enthusiast from Turkey</h3>
 
 - 🔭 I’m currently working on **Hack Your Future**
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, Javascript,SQL, MongoDB**
 
 - 📫 How to reach me **agarwoodson@icloud.com**
 
